@@ -3,7 +3,10 @@
 📫 How to reach me: [Telegram](https://t.me/imishaa) or [Discord](https://discordapp.com/users/596710743689134089/)
 
 <details>
-  <summary>Learning Path   ... to inspire smn or myself</summary>
+  <summary>Pet projects</summary>
+  </br>
+  
+  Learning Path   ... to inspire smn or myself
   
   2021
 - WIP [YouTube Client](https://kovalenkoiryna15.github.io/youtube-client/youtube-client)
