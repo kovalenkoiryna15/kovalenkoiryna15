@@ -10,8 +10,8 @@ Learning Path   ... to inspire smn or myself
 - WIP [Virtual Piano](https://kovalenkoiryna15.github.io/virtual-piano/virtual-piano)
 - [Express REST Service](https://github.com/kovalenkoiryna15/express-rest-service)
 - [English Learning App](https://rslang-team40.netlify.app/)
-- [Travell App](https://travel-app-team-40.netlify.app/)
-- [Battleshiep Game](https://kovalenkoiryna15.github.io/react-game/)
+- [Travel App](https://travel-app-team-40.netlify.app/)
+- [Battleship Game](https://kovalenkoiryna15.github.io/react-game/)
 - [Tasks Dashboard](https://kovalenkoiryna15.github.io/rsclone/)
 
 2020
