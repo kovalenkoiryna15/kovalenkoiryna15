@@ -2,9 +2,10 @@
 
 📫 How to reach me: [Telegram](https://t.me/imishaa) or [Discord](https://discordapp.com/users/596710743689134089/)
 
-Learning Path   ... to inspire smn or myself
-
-2021
+<details>
+  <summary>Learning Path   ... to inspire smn or myself</summary>
+  
+  2021
 - WIP [YouTube Client](https://kovalenkoiryna15.github.io/youtube-client/youtube-client)
 - WIP [Commit Life](https://github.com/kovalenkoiryna15/commitlife)
 - WIP [Virtual Piano](https://kovalenkoiryna15.github.io/virtual-piano/virtual-piano)
@@ -25,3 +26,5 @@ Learning Path   ... to inspire smn or myself
 - [Singolo](https://kovalenkoiryna15.github.io/singolo/)
 - [BeepB](https://kovalenkoiryna15.github.io/beepb-landing-page/)
 - [Personal Site](https://kovalenkoiryna15.github.io/kovalenkoi/)
+
+</details>
