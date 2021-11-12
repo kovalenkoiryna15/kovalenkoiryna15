@@ -21,7 +21,7 @@
 2020
 - [Covid Dashboard](https://kovalenkoiryna15-covid-dashboard.netlify.app/)
 - [English for Kids](https://rolling-scopes-school.github.io/kovalenkoiryna15-JS2020Q3/english-for-kids/)
-- [Gem Pazzle](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/gem-pazzle/codejam-the-gem-puzzle.md)
+- [Gem Pazzle](https://rolling-scopes-school.github.io/kovalenkoiryna15-JS2020Q3/gem-puzzle/)
 - [Calculator](https://rolling-scopes-school.github.io/kovalenkoiryna15-JS2020Q3/calculator/)
 - [Cozy House](https://rolling-scopes-school.github.io/kovalenkoiryna15-JS2020Q3/shelter/pages/main/)
 
