@@ -5,8 +5,9 @@
 Learning Path   ... to inspire smn or myself
 
 2021
-- [YouTube Client](https://kovalenkoiryna15.github.io/youtube-client/youtube-client)
-- [Virtual Piano](https://kovalenkoiryna15.github.io/virtual-piano/virtual-piano)
+- WIP [YouTube Client](https://kovalenkoiryna15.github.io/youtube-client/youtube-client)
+- WIP [Commit Life](https://github.com/kovalenkoiryna15/commitlife)
+- WIP [Virtual Piano](https://kovalenkoiryna15.github.io/virtual-piano/virtual-piano)
 - [Express REST Service](https://github.com/kovalenkoiryna15/express-rest-service)
 - [English Learning App](https://rslang-team40.netlify.app/)
 - [Travell App](https://travel-app-team-40.netlify.app/)
