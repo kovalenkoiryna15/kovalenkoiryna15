@@ -1,3 +1,3 @@
 ### Hi there :octocat:
 
-📫 Contact: [Discord](https://discordapp.com/users/596710743689134089/)
+📫 Contact: [LinkedIn](https://www.linkedin.com/in/iryna-kavalenka)
